@@ -4,7 +4,7 @@
 #include<stdio.h>
 #include<ctype.h>
 struct hotel
-{
+{//comment
  char cnm[50];  //customer name
  int ctype;     //type of room
  char cadd[70]; //customer adress
